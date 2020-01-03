@@ -5,4 +5,30 @@ in console gaan van firefox
 naar 'netwerk' 
 filter zetten op m3u8
 
-als er meerdere m3u8 dingen gevonden zijn , neem deze met index.m3u8
+als er meerdere m3u8 dingen gevonden zijn , neem deze met index.m3u8  
+
+
+
+voor vrt.nu is het anders en met dash files.
+daarvoor is er een programma  : https://www.videohelp.com/download/TVDownloader-1.18.2.zip
+gewoon de url ingeven en inloggen in het programma .
+
+
+ TVDownloader (aka YoutubeVideoDownloader) downloads video and audio streams from Youtube, Vimeo, DailyMotion, Twitch, Veoh, BBC, +900 more sites to a videofile or mp3file. Very easy to use, just copy the video url, set the output folder, select the video resolution option: Best, 1080p, 720p, 480p, 360p and download! Based on youtube-dl and ffmpeg.
+
+Freeware
+OS: Win
+File size: 32MB
+Old versions
+Version history	
+7.6/10
+57 votes
+
+
+Screenshots
+
+TVDownloader screenshot
+
+Latest version
+
+1.18.2 (April 27, 2019) 
