@@ -1,0 +1,8 @@
+in firefox 
+inloggen op de video- site.
+
+in console gaan van firefox 
+naar 'netwerk' 
+filter zetten op m3u8
+
+als er meerdere m3u8 dingen gevonden zijn , neem deze met index.m3u8
