@@ -1,13 +1,16 @@
-in firefox 
-inloggen op de video- site.
+voor vtmgo is het met https://www.downloadhelper.net/install plugin in firefox of chrome , 
+een blauw en geel en rood bolleke , 
+ga naar de site , en je plugin komt actief en je kan downloaden
 
+*********************
+voor vier in firefox (zender vier )
+inloggen op de video- site.
 in console gaan van firefox 
 naar 'netwerk' 
 filter zetten op m3u8
-
 als er meerdere m3u8 dingen gevonden zijn , neem deze met index.m3u8  
-
-
+en et ffmpgeg downloaden ( zie code in batfile)
+***************************
 
 voor vrt.nu is het anders en met dash files.
 daarvoor is er een programma  : https://www.videohelp.com/download/TVDownloader-1.18.2.zip
