@@ -17,6 +17,11 @@ daarvoor is er een programma  : https://www.videohelp.com/download/TVDownloader-
 gewoon de url ingeven en inloggen in het programma .
 
 
+--------------
+youtube kan ook makkkelijk via  : 
+https://bitdownloader.com/en2   en dan  krijg je een knop , en dan rechtermuistoets en opslaan als doen...
+
+
  TVDownloader (aka YoutubeVideoDownloader) downloads video and audio streams from Youtube, Vimeo, DailyMotion, Twitch, Veoh, BBC, +900 more sites to a videofile or mp3file. Very easy to use, just copy the video url, set the output folder, select the video resolution option: Best, 1080p, 720p, 480p, 360p and download! Based on youtube-dl and ffmpeg.
 
 FreewareOS: WinFile size: 32MB Old versionsVersion history	7.6
