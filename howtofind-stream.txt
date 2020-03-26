@@ -16,6 +16,10 @@ voor vrt.nu is het anders en met dash files.
 daarvoor is er een programma  : https://www.videohelp.com/download/TVDownloader-1.18.2.zip
 gewoon de url ingeven en inloggen in het programma .
 
+------------
+wtv , in firefox de m3u8 zoeken in console en met youtube-dlg , http://mrs0m30n3.github.io/youtube-dl-gui/ lukt dit
+vb : 
+https://hls-focus-wtv.cdn01.rambla.be//y2bbc/3NqVJ6tTc_or.smil/playlist.m3u8
 
 --------------
 youtube kan ook makkkelijk via  : 
