@@ -1,3 +1,6 @@
+ffmpeg hier  : https://ffmpeg.zeranoe.com/builds/
+
+*****
 voor vtmgo is het met tvdownloader 1.18
 maar in netwerk moet je de stream zoeken , en dit downloaden ipv de url van vtmgo
 https://dpp-anvato-live.akamaized.net/eu/vod/10000001/19/12/23/10095253/video-1DFA20F69CE4B79B9DB5B268F793B8733E9E0E66EE08A31.mp4?hdntl=exp=1579053948~acl=/*~hmac=41ca4a7439bfa32e8e35816179aeae6a10a49011bfd59a2b06bf7e4f39d0ef15
