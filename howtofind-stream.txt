@@ -1,3 +1,15 @@
+
+**********wtv ***** maak een playlist : wtv.m3u met daarin  ************en opent in vlc
+#EXTM3U
+#EXTVLCOPT:http-referrer=http://hls-origin01-focus-wtv.cdn01.rambla.be/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/VyO3OZ.smil/playlist.m3u8
+
+
+************************************
+
+
+
 ffmpeg hier  : https://ffmpeg.zeranoe.com/builds/
 
 *****
