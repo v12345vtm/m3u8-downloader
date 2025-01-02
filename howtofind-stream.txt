@@ -27,11 +27,11 @@ als er meerdere m3u8 dingen gevonden zijn , neem deze met index.m3u8
 en et ffmpgeg downloaden ( zie code in batfile)
 ***************************
 
-voor vrt.nu is het anders en met dash files.
+voor vrt.nu  en goplay is het anders en met dash files.
 daarvoor was  er een programma  : https://www.videohelp.com/download/TVDownloader-1.18.2.zip
 gewoon de url ingeven en inloggen in het programma .
  getaddrinfo failed> (caused by URLError(gaierror(11004 = DNS open zetten !
- nu met youtube-dlg , de mpd zoeken in de console vd browser  :  vb = https://remix-cf.lwc.vrtcdn.be/remix/90b4764263-7c12-4a83-8e68-072072fc3d72/remix.ism/.mpd
+ nu met youtube-dlg ,eerst  de mpd zoeken in de console vd browser  :  vb = https://remix-cf.lwc.vrtcdn.be/remix/90b4764263-7c12-4a83-8e68-072072fc3d72/remix.ism/.mpd
 
 ------------
 wtv , in firefox de m3u8 zoeken in console en met youtube-dlg , http://mrs0m30n3.github.io/youtube-dl-gui/ lukt dit
